@@ -65,6 +65,14 @@ changes are placed under Apache-2.0.
 
 ---
 
+## Cloned and Modified Components
+
+| Component | License | Upstream | Notes |
+|-----------|---------|----------|-------|
+| PinchBench skill | MIT | https://github.com/pinchbench/skill | Cloned and patched at image build (modification). |
+
+---
+
 ## ⚖️ License Text References
 
 All license texts are available online:
